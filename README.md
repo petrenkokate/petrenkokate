@@ -1,5 +1,6 @@
 # 💫 About Me:
-💻 I am bioinformatician with a passion for biology<br>🧬 I am bachelor student in Biology<br>🐈 I have a little helper - my cat Xant
+💻 I am bioinformatician with a passion for biology<br>🧬 I am bachelor student in Biology<br>🐈 I have a little helper - my cat Xant. Sometimes he writes the code for me
+[Xant](Xant.png)
 
 
 ## 🌐 Socials:
