@@ -1,7 +1,7 @@
 # 💫 About Me:
 💻 I am bioinformatician with a passion for biology<br>🧬 I am bachelor student in Biology<br>🐈 I have a little helper - my cat Xant. Sometimes he writes the code for me
-![Xant](Xant.png)
 
+<img src="Xant.png" width="300" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100017109002367&mibextid=LQQJ4d) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ugly_miracle) 
